@@ -4,7 +4,7 @@ Word boundary detection is a necessary preprocessing step for automatic speech r
 
 Almost every study conducted here involves the collection of a large number of recorded sentences. The sentences are then segmented by marking the start and end of each word. This is done by trained individuals in the lab, and their work is compared to each others' to establish a measure of inter-labeler reliability. The recordings are typically high quality and low noise.
 
-The code `Detect_WordBoundary.m` generates the following relevant plots. Please refer to the **ResultsReport.pdf** for details on the implementation.
+The code `Detect_WordBoundary.m` generates the following relevant plots. Since the code demonstrates the proof-of-concept, just two `wave sound` and `textgrid files` are included. Please refer to the **ResultsReport.pdf** for details on the implementation.
 ### Manually/Automatically Detected Word Boundaries
 <img src="1.jpg" width="600">
 ### Layered Extraction of the Word Boundaries
