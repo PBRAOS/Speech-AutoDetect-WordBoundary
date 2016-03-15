@@ -1,4 +1,4 @@
-# Automatic Word Boundary Detection in a Speech Utterance using Adaptive Scaling
+# Speech-AutoDetect-WordBoundary
 
 Word boundary detection is a necessary preprocessing step for automatic speech recognition, and several studies have shown that the accuracy of word boundary detection directly affects the accuracy of speech recognition.
 
